@@ -1,0 +1,1 @@
+$location = OU=new,OU=Summer Students,OU=Courtauld Users,DC=institute,DC=courtauld,DC=local

@@ -1,11 +1,3 @@
-*******************************************************************************************************************************
-** All code is for demonstration only and should be used at your own risk. I cannot accept liability for unexpected results. **
-*******************************************************************************************************************************
- 
-Use: You're welcome to use, modify, and distribute this script.  I'd love to hear about how you're using it or 
-modifications you've made in the comments section of the original post over at ChristopherKibble.com.
- 
-#>
  
 # This key contains all of the profiles on the machine (including non-user profiles)
 $profileList = Get-ChildItem -Path "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList"

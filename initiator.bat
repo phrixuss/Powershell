@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy unrestricted -File D:\mulberryintuneprocess.ps1
